@@ -1,0 +1,1 @@
+# Algoritmo-Translacao-de-imagem
